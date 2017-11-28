@@ -16,9 +16,10 @@ public class ArrayPrintInReverse {
 		for (int i = 4; i >= 0; i--) {
 		
 		System.out.println(arr[i]);
-
 		
 		}
+		System.out.println("Master Print - for Test :)");
+				
 	}
 	
 }
